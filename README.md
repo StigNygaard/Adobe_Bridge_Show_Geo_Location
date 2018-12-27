@@ -10,5 +10,5 @@ To install, simply copy the jsx file into Adobe Bridge's Startup Scripts folder 
 
 Tested with Adobe Bridge CC v8.1 (Photoshop CC 2018) and v9.0 (Photoshop CC 2019) on Windows 10.
 
-Inspired by an old script by @Paul-Riggot which unfortunately stopped working in modern Photoshop/Bridge CC versions:
+Inspired by an old script by Paul-Riggot which unfortunately stopped working in modern Photoshop/Bridge CC versions:
 https://github.com/Paul-Riggott/PS-Scripts/blob/master/Map%20from%20Geotag.jsx
