@@ -3,10 +3,12 @@
 Adobe Bridge CC startup-script.
 
 Adds an option to photo context menus in Adobe Bridge CC, to see the photo's geo-position on Google Maps.
-Current version shows position on Google Maps using Firefox webbrowser (I wasn't able to get script working specifying only URI in cmd, but giving URI via my webbrowser worked).
 
-You might want/need to experiment with how cmd is defined, including maybe adjusting path to your webbrowser's location.
+You might want/need to experiment with how _cmd_ is defined. Mac users should probably replace _start "" "url"_ with _open "url"_... 
 
-To install, copy the jsx file into Adobe Bridge's Startup Scripts folder. To find this folder's location, open Adobe Bridge and choose: Preferences -> Startup Scripts -> Reveal My Startup Scripts.
+To install, simply copy the jsx file into Adobe Bridge's Startup Scripts folder before opening Bridge. To find this folder's location, open Bridge and choose: Preferences -> Startup Scripts -> Reveal My Startup Scripts.
 
-Tested in Adobe Bridge v8.1 on Windows 10.
+Tested in Adobe Bridge CC v8.1 on Windows 10.
+
+Inspired by an old script by Paul-Riggot which doesn't work in modern Photoshop/Bridge versions:
+https://github.com/Paul-Riggott/PS-Scripts/blob/master/Map%20from%20Geotag.jsx
