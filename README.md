@@ -9,4 +9,4 @@ You might want/need to experiment with how cmd is defined, including maybe adjus
 
 To install, copy the jsx file into Adobe Bridge's Startup Scripts folder. To find this folder's location, open Adobe Bridge and choose: Preferences -> Startup Scripts -> Reveal My Startup Scripts.
 
-Tested in Adobe Bridge v8.1.
+Tested in Adobe Bridge v8.1 on Windows 10.
