@@ -3,7 +3,7 @@
 Adobe Bridge CC startup-script.
 
 Adds an option to photo context menus in Adobe Bridge CC, to see the photo's geo-position on Google Maps.
-Shows position on Google Maps using Firefox webbrowser (I wasn't able to get script working specifying only URI in cmd, but giving URI via my webbrowser worked).
+Current version shows position on Google Maps using Firefox webbrowser (I wasn't able to get script working specifying only URI in cmd, but giving URI via my webbrowser worked).
 
 You might want/need to experiment with how cmd is defined, including maybe adjusting path to your webbrowser's location.
 
