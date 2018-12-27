@@ -12,7 +12,7 @@ mapFromGPS.onSelect = function () {
     if (lat === "") return;
     if (lon === "") return;
     var latparts = lat.match(/\d+/g);
-    var lat1 =(Number(latparts[0]) +(Number(latparts[1].toString()+"."+latparts[2].toString())/60)).toFixed(4);
+    var lat1 = (Number(latparts[0]) +(Number(latparts[1].toString()+"."+latparts[2].toString())/60)).toFixed(4);
     var lonparts = lon.match(/\d+/g);
     var lon1 = (Number(lonparts[0]) +(Number(lonparts[1].toString()+"."+lonparts[2].toString())/60)).toFixed(4);
     var latneg = "";

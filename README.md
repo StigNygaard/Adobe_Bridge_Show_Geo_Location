@@ -12,3 +12,5 @@ Tested with Adobe Bridge CC v8.1 (Photoshop CC 2018) and v9.0 (Photoshop CC 2019
 
 Inspired by an old script by Paul-Riggot which unfortunately stopped working in modern Photoshop/Bridge CC versions:
 https://github.com/Paul-Riggott/PS-Scripts/blob/master/Map%20from%20Geotag.jsx
+(and by discussion on https://feedback.photoshop.com/photoshop_family/topics/_mapping_the_photo_in_bridge)
+
