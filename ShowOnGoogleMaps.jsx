@@ -36,7 +36,6 @@ mapFromGPS.onSelect = function () {
     var latResult = latneg+lat1;
     var lonResult = lonneg+lon1;
     // var cmd = "start /B \"C:\\Program Files\\Mozilla Firefox\\firefox.exe\" \""+ "https://www.google.com/maps/search/?api=1&query=" + latResult + "," + lonResult + "\"";
-    var cmd = "start /B \"\" \"https://www.google.com/maps/search/?api=1&query=" + latResult + "," + lonResult + "\"";
-    // If on Mac or Linux you probably need to replace start command with open or xdg-open: https://dwheeler.com/essays/open-files-urls.html
+    var cmd = "start /B \"\" \"https://www.google.com/maps/search/?api=1&query=" + latResult + "," + lonResult + "\""; // Should open url in default browser
     app.system(cmd);
 };
