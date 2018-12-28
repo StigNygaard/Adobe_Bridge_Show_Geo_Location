@@ -10,4 +10,4 @@ To install, simply copy [the jsx file](https://github.com/StigNygaard/Adobe_Brid
 
 Tested with Adobe Bridge CC v8.1 (Photoshop CC 2018) and v9.0 (Photoshop CC 2019) on Windows 10.
 
-I don't really have any knowledge or experience on scripting in Adobe CC, but inspired by a [discussion at Photoshop Family support](https://feedback.photoshop.com/photoshop_family/topics/_mapping_the_photo_in_bridge) and partly based on an [older script by Paul-Riggott](https://github.com/Paul-Riggott/PS-Scripts/blob/master/Map%20from%20Geotag.jsx) (which ain't working in recent CC versions), I have created this script.
+I don't really have any knowledge or prior experience on scripting in Adobe CC, but inspired by a [discussion at Photoshop Family support](https://feedback.photoshop.com/photoshop_family/topics/_mapping_the_photo_in_bridge) and largely based on an [older script by Paul-Riggott](https://github.com/Paul-Riggott/PS-Scripts/blob/master/Map%20from%20Geotag.jsx) (which ain't working in recent CC versions), I have been able to create this.
