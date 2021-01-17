@@ -10,6 +10,6 @@ You _might_ want/need to experiment with how _cmd_ is defined in the code. Mac u
 
 To install, simply copy [the jsx file](https://github.com/StigNygaard/Adobe_Bridge_Show_Geo_Location/raw/master/ShowOnGoogleMaps.jsx) into Adobe Bridge's _Startup Scripts_ folder. To find this folder's location, open Bridge and choose: Preferences -> Startup Scripts -> Reveal My Startup Scripts.
 
-Tested successfully on Windows 10 with Adobe Bridge CC 2020 (v10.0), Bridge CC 2019 (v9.x) and Bridge CC 2018 (v8.x).
+Verified working on Windows 10 with Adobe Bridge from CC 2018 (vers. 8) to CC 2021 (vers. 11).
 
 I don't really have any knowledge or prior experience on scripting in Adobe CC, but inspired by an [older script by Paul-Riggott](https://github.com/Paul-Riggott/PS-Scripts/blob/master/Map%20from%20Geotag.jsx) (which ain't working in newer CC versions) and a [discussion in Photoshop Family support](https://feedback.photoshop.com/photoshop_family/topics/_mapping_the_photo_in_bridge), I have been able to create this. Also thanks to [Gene Parcellano](https://github.com/geneparcellano) for above mentioned modification for Mac users.
