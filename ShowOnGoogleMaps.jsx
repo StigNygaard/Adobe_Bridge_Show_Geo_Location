@@ -1,4 +1,4 @@
-#target bridge
+//@target bridge
 if (BridgeTalk.appName === "bridge") {
     mapFromGPS = MenuElement.create("command", "Show location on Google Maps", "at the end of Thumbnail");
 }
